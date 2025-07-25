@@ -97,5 +97,6 @@ Vacation Planning: Tourists can find resorts matching their skill level and pref
 
 Tourism Analysis: Governments can compare regional performance and competitiveness.
 
-## 🖼️ Screenshots :
+## 🖼️ Screenshots : 
+https://github.com/Ritik2kandpal/Ski-dashboard/blob/main/Snapshot%20of%20the%20Dahbaord.png
   
